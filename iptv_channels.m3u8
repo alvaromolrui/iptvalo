@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz"
-#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://i.ibb.co/MxJNPHsn/La-1.png" group-title="Generalistas" tvg-name="Test",Test
+#EXTINF:-1 tvg-id="La.1.es" tvg-logo="https://i.ibb.co/MxJNPHsn/La-1.png" group-title="Generalistas" tvg-name="Test",Test
 http://176.65.146.237:8401/play/a095/index.m3u8
-#EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://i.ibb.co/rfsr9PSh/La-2.png" group-title="Generalistas" tvg-name="La 2",La 2
+#EXTINF:-1 tvg-id="La.2.es" tvg-logo="https://i.ibb.co/rfsr9PSh/La-2.png" group-title="Generalistas" tvg-name="La 2",La 2
 https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
 #EXTINF:-1 tvg-id="Antena.3.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Antena_3_2025_%28Naranja%29.svg/512px-Logo_Antena_3_2025_%28Naranja%29.svg.png" group-title="Generalistas" tvg-name="Antena 3",Antena 3
 http://176.65.146.237:8401/play/a0ae/index.m3u8
